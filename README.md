@@ -1,2 +1,2 @@
-# COSC--A1
+# COSC-A1
 Assignment one 
