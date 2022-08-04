@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@1,600&display=swap');
+
+body {
+  background-color: #B0C693;
+}
+
+h1 {
+  font-family: 'Bitter', serif;
+  color: #C69393;
+  text-align: center;
+  font-size: 100px
+}
+h2 {
+  color: #AD8495;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
