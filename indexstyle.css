@@ -5,7 +5,24 @@
 body {
   background-color: #B0C693;
 }
-
+.container {
+  width:80%
+  margin:0 auto;
+}
+header {
+  background: #C69393;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: inline-block;
+  margin-left: 70px;
+  padding-top: 15px;
+  font-size: 50px;
+}
 h1 {
   font-family: 'Bitter', serif;
   color: #C69393;
