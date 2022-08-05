@@ -5,10 +5,6 @@
 body {
   background-color: #B0C693;
 }
-.container {
-  width:80%
-  margin:0 auto;
-}
 header {
   background: #C69393;
 }
@@ -16,6 +12,7 @@ ul {
   margin: 0;
   padding: 0;
   list-style: none;
+  display: inline-block; text-align: center;
 }
 nav li {
   display: inline-block;
@@ -24,13 +21,16 @@ nav li {
   padding-top: 15px;
   font-size: 20px;
 }
-
+nav {
+  text-align: center;
+}
 nav a {
   float: left;
   text-align: center;
   color: #444;
   text-decoration: none;
   text-transform: uppercase;
+  text-align: center;
 }
 h1 {
   font-family: 'Bitter', serif;
