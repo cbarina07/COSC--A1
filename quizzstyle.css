@@ -3,14 +3,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Bitter:ital,wght@1,600&family=Source+Sans+Pro:ital,wght@0,300;0,400;1,200&display=swap');
 
 body {
-  background-color: #B0C693;
+  background-color: #EFBF9A;
 }
 .container {
   width:80%
   margin:0 auto;
 }
 header {
-  background: #C69393;
+  background: #A0816B;
 }
 ul {
   margin: 0;
@@ -34,30 +34,30 @@ nav a {
 }
 h1 {
   font-family: 'Bitter', serif;
-  color: #AD8495;
+  color: #864717;
   text-align: center;
   font-size: 100px
 }
 h2 {
-  color: #AD8495;
+  color: #8A532B;
   text-align: center;
   font-size: 35px
 }
 h3 {
   font-family: 'Bitter', serif;
-  color:#4C675D;
-  font-size: 30px
+  color:#1F2A28;
+  font-size: 35px
 }
 hr {
        position: relative;
        top: 0px;
        border: none;
        height: 5px;
-       background: #84AD87;
+       background: #8A532B;
        margin-bottom: 25px;
    }
 p {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 20px;
-  color: #2D3A2E;
+  color: #8A532B;
 }
