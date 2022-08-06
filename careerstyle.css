@@ -4,7 +4,7 @@
 
 body {
   background-color: #5C92A1;
-}
+  cursor: default}
 .container {
   width:80%
   margin:0 auto;
