@@ -22,7 +22,7 @@ nav li {
   position: relative;
   margin-left: 70px;
   padding-top: 15px;
-  font-size: 20px;
+  font-size: 25px;
 }
 nav {
   text-align: center;
@@ -34,6 +34,10 @@ nav a {
   text-decoration: none;
   text-transform: uppercase;
 }
+nav a:hover {
+  color: #F1D60D;
+  text-decoration: underline;}
+
 h1 {
   font-family: 'Bitter', serif;
   color: #CBE2E8;

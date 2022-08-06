@@ -3,61 +3,67 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Bitter:ital,wght@1,600&family=Source+Sans+Pro:ital,wght@0,300;0,400;1,200&display=swap');
 
 body {
-  background-color: #B0C693;
-}
+  background-color: #B0C693;}
+
 header {
-  background: #C69393;
-}
+  background: #C69393;}
+
 ul {
   margin: 0;
   padding: 0;
   list-style: none;
-  display: inline-block; text-align: center;
-}
+  display: inline-block; text-align: center;}
+
 nav li {
   display: inline-block;
   position: relative;
   margin-left: 70px;
   padding-top: 15px;
-  font-size: 20px;
-}
+  font-size: 25px;
+  position: relative;}
+
 nav {
-  text-align: center;
-}
+  text-align: center;}
+
 nav a {
   float: left;
   text-align: center;
   color: #444;
   text-decoration: none;
   text-transform: uppercase;
-  text-align: center;
-}
+  text-align: center;}
+
+nav a:hover {
+  color: #F1D60D;
+  text-decoration: underline;}
+
 h1 {
   font-family: 'Bitter', serif;
   color: #AD8495;
   text-align: center;
-  font-size: 100px
-}
+  font-size: 100px}
+
 h2 {
   color: #AD8495;
   text-align: center;
-  font-size: 35px
-}
+  font-size: 35px}
+
 h3 {
   font-family: 'Bitter', serif;
   color:#4C675D;
-  font-size: 30px
-}
+  font-size: 30px}
+
 hr {
        position: relative;
        top: 0px;
        border: none;
        height: 5px;
        background: #84AD87;
-       margin-bottom: 25px;
-   }
+       margin-bottom: 25px;}
 p {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 20px;
-  color: #2D3A2E;
-}
+  color: #2D3A2E;}
+
+img {
+  margin-left:10px;

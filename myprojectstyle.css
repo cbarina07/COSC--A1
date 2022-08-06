@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Bitter:ital,wght@1,600&family=Source+Sans+Pro:ital,wght@0,300;0,400;1,200&display=swap');
+
+body {
+  background-image: url("darkally.jpg");
+  }
+
+header {
+  background: #black;}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: inline-block; text-align: center;}
+
+nav li {
+  display: inline-block;
+  position: relative;
+  margin-left: 70px;
+  padding-top: 15px;
+  font-size: 25px;
+  position: relative;}
+
+nav {
+  text-align: center;}
+
+nav a {
+  float: left;
+  text-align: center;
+  color: #F4DFDF;
+  text-decoration: bold;
+  text-transform: uppercase;
+  text-align: center;}
+
+nav a:hover {
+  color: #F1D60D;
+  text-decoration: underline;}
+
+
+h1 {
+  font-family: 'Titillium Web', sans-serif;
+  color: #D75D5D;
+  text-align: center;
+  font-size: 100px}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #C75454;
+  text-align: center;
+  font-size: 35px}
+
+h3 {
+  font-family: 'Bitter', serif;
+  color:#4C675D;
+  font-size: 30px}
+
+hr {
+       position: relative;
+       top: 0px;
+       border: none;
+       height: 5px;
+       background: #733737;
+       margin-bottom: 25px;}
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  color: #F4DFDF;}
