@@ -9,3 +9,5 @@ your  project is very broad, have a broad intro and motivation
 be concise - word count is generally important.
 https://www.youtube.com/watch?v=7cmmoMw9oxE - navbar icons
 https://www.youtube.com/watch?v=FEmysQARWFU- nav bar
+<link type="image/png" sizes="16x16" rel="icon" href=".../icons8-sparrow-16.png">
+<link type="image/png" sizes="32x32" rel="icon" href=".../icons8-sparrow-32.png">
