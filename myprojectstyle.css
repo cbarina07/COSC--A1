@@ -29,7 +29,7 @@ nav {
 nav a {
   float: left;
   text-align: center;
-  color: #F4DFDF;
+  color: #CCCCCC;
   text-decoration: bold;
   text-transform: uppercase;
   text-align: center;}
@@ -41,7 +41,7 @@ nav a:hover {
 
 h1 {
   font-family: 'Titillium Web', sans-serif;
-  color: #D75D5D;
+  color: #CCCCCC;
   text-align: center;
   font-size: 100px}
 
@@ -61,9 +61,9 @@ hr {
        top: 0px;
        border: none;
        height: 5px;
-       background: #733737;
+       background: #989998;
        margin-bottom: 25px;}
 p {
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
-  color: #F4DFDF;}
+  color: #CCCCCC;}
