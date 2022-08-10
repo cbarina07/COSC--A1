@@ -64,6 +64,10 @@ hr {
    }
 p {
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 20px;
+  font-size: 25px;
   color: #1F2A28;
 }
+
+img {
+  margin-left:10px;
+  margin-right:10px; }
