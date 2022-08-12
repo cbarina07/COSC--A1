@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Bitter:ital,wght@1,600&family=Source+Sans+Pro:ital,wght@0,300;0,400;1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
 
 body {
   background-image: url("darkally.jpg");
@@ -48,7 +49,7 @@ h1 {
 h2 {
   font-family: 'Montserrat', sans-serif;
   color: #C75454;
-  text-align: center;
+  text-align: left;
   font-size: 35px}
 
 h3 {
@@ -64,6 +65,17 @@ hr {
        background: #989998;
        margin-bottom: 25px;}
 p {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 20px;
-  color: #CCCCCC;}
+  color: #CCCCCC;
+  background: black}
+
+  img {
+    margin: auto;
+    display: block;
+  }
+  img {
+  width: 50%;
+  margin: auto;
+  display: block;
+}
